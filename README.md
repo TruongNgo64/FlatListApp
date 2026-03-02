@@ -10,15 +10,6 @@
 
 Ứng dụng React Native sử dụng FlatList để hiển thị danh sách dữ liệu.
 
----
-
-## 🚀 Cách chạy project
-
-npm install  
-npx expo start  
-
----
-
 ## 📷 Hình ảnh kết quả
 
-![Kết quả](flatlist.jpg)
+![Kết quả](assets/flatlist.jpg)
