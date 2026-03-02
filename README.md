@@ -12,4 +12,4 @@
 
 ## 📷 Hình ảnh kết quả
 
-<img src="./assets/images/flatlist.jpg" width="300"/>
+<img src="https://github.com/TruongNgo64/FlatListApp/commit/4cd18b642a13b8f302b57ebc91f88676b67de71f#diff-0870865d61f800c05b2ee4dbeae3b7e788f573ccaed6632d1515a10ce9accd29"/>
