@@ -11,5 +11,4 @@
 Ứng dụng React Native sử dụng FlatList để hiển thị danh sách dữ liệu.
 
 ## 📷 Hình ảnh kết quả
-
-![Kết quả](assets/flatlist.jpg)
+<img src="./assets/flatlist.jpg" width="300"/>
